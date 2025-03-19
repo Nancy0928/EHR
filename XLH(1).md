@@ -1,4 +1,4 @@
-![新校徽](media/image1.png){width="5.485416666666667in"
+![新校徽](pictures\2-1_lstm结构.jpg){width="5.485416666666667in"
 height="1.2375in"}
 
 硕士学位论文
